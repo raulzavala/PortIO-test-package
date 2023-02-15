@@ -1,0 +1,30 @@
+﻿  Building 'genport' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping .\Win8.1Release\\genport.inf [Version] section with DriverVer=02/14/2023,20.55.59.748
+C:\Users\Raul Zavala\Downloads\C++\C++\sys\genport.inx(43-43): warning 2083: Section [msft] not referenced or used.
+C:\Users\Raul Zavala\Downloads\C++\C++\sys\genport.inx(52-52): warning 2222: Legacy directive 'LogConfig' will be ignored.
+C:\Users\Raul Zavala\Downloads\C++\C++\sys\genport.inx(52-52): warning 1301: Found legacy LogConfig operation.
+C:\Users\Raul Zavala\Downloads\C++\C++\sys\genport.inx(65-65): warning 2083: Section [portio.lc0] not referenced or used.
+C:\Users\Raul Zavala\Downloads\C++\C++\sys\genport.inx(69-69): warning 2083: Section [portio.lc1] not referenced or used.
+  device.c
+  driver.c
+  queue.c
+  Generating Code...
+  genport.vcxproj -> C:\Users\Raul Zavala\Downloads\C++\C++\sys\Win8.1Release\genport.sys
+  genport.vcxproj -> Win8.1Release\genport.pdb (Full PDB)
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Raul Zavala\Downloads\C++\C++\sys\Win8.1Release\genport.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\Raul Zavala\Downloads\C++\C++\sys\Win8.1Release\genport\kmdfsamples.cat
+  Done Adding Additional Store
+  Successfully signed: Win8.1Release\genport\kmdfsamples.cat
+  
